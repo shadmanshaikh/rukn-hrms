@@ -3,7 +3,7 @@
 A comprehensive Human Resource Management System designed for modern enterprises, focusing on efficiency, scalability, and intelligent automation.
 
 ## Connect With Me 🤝
-[![GitHub](https://img.shields.io/badge/GitHub-shadmanshaikh-181717?style=flat&logo=github)](https://github.com/shadmanshaikh)
+[![GitHub](https://img.shields.io/badge/GitHub-shadmanshaikh-181717?style=flat&logo=github)](https://github.com/shadmanshaikh/rukn-hrms)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shadmanshaikh-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shadman-shaikh-xan)
 
 ## Technology Stack 🛠️
@@ -108,6 +108,6 @@ To install the PWA, follow these steps:
 2. Click on the install prompt (usually found in the address bar or menu).
 3. Follow the instructions to add the app to your home screen.
 
-![PWA Feature](https://github.com/shadmanshaikh/rukn/blob/main/public/photos/pwa.png)
+![PWA Feature](https://github.com/shadmanshaikh/rukn-hrms/blob/main/public/photos/pwa.png)
 
 </div>
