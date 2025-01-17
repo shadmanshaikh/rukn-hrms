@@ -80,20 +80,20 @@ A comprehensive Human Resource Management System designed for modern enterprises
 <div align="center">
 
 ### Executive Dashboard
-![Operations Dashboard](https://github.com/shadmanshaikh/rukn-hrms/blob/main/public/photos/dashboard.png?raw=true)
+![Operations Dashboard](https://github.com/shadmanshaikh/rukn-hrms/blob/main/photos/dashboard.png?raw=true)
 
 ### Department Operations
-![Department Management](https://github.com/shadmanshaikh/rukn-hrms/blob/main/public/photos/dept.png)
+![Department Management](https://github.com/shadmanshaikh/rukn-hrms/blob/main/photos/dept.png)
 
 ### Lead Management
-![Pipeline Dashboard](https://github.com/shadmanshaikh/rukn-hrms/blob/main/public/photos/leads.png)
+![Pipeline Dashboard](https://github.com/shadmanshaikh/rukn-hrms/blob/main/photos/leads.png)
 
 ### Talent Evaluation
-![Candidate Assessment](https://github.com/shadmanshaikh/rukn-hrms/blob/main/public/photos/shortlist.png)
+![Candidate Assessment](https://github.com/shadmanshaikh/rukn-hrms/blob/main/photos/shortlist.png)
 
 ### AI Integration
-![AI Integration](https://github.com/shadmanshaikh/rukn-hrms/blob/main/public/photos/ai.png)
-![AI Integration 2](https://github.com/shadmanshaikh/rukn-hrms/blob/main/public/photos/ai2.png)
+![AI Integration](https://github.com/shadmanshaikh/rukn-hrms/blob/main/photos/ai.png)
+![AI Integration 2](https://github.com/shadmanshaikh/rukn-hrms/blob/main/photos/ai2.png)
 
 ### PWA Feature
 Our application now supports Progressive Web App (PWA) features, providing an enhanced user experience with the following benefits:
@@ -108,6 +108,6 @@ To install the PWA, follow these steps:
 2. Click on the install prompt (usually found in the address bar or menu).
 3. Follow the instructions to add the app to your home screen.
 
-![PWA Feature](https://github.com/shadmanshaikh/rukn-hrms/blob/main/public/photos/pwa.png)
+![PWA Feature](https://github.com/shadmanshaikh/rukn-hrms/blob/main/photos/pwa.png)
 
 </div>
